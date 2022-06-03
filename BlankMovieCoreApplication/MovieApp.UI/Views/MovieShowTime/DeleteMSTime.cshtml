@@ -1,0 +1,59 @@
+﻿
+
+@model MovieAPP.Entity.MovieShowTimeModel
+
+@{
+    ViewData["Title"] = "DeleteMSTime";
+}
+
+
+<a asp-action="Index" asp-controller="MovieShowTime">Movie Show time  Details</a>
+<h1>DeleteMSTime</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label>ShowId</label>
+        <input type="text" class="form-control" Asp-for="ShowId" />
+    </div>
+
+    <div class="form-group">
+        <label>MovieId</label>
+        <input type="text" class="form-control" Asp-for="MovieId" />
+    </div>
+
+    <div class="form-group">
+        <label>TheaterId</label>
+        <input type="text" class="form-control" Asp-for="TheaterId" />
+    </div>
+
+
+    <div class="form-group">
+        <label>ShowTime</label>
+        <input type="time" class="form-control" Asp-for="ShowTime" />
+    </div>
+
+
+    <div class="form-group">
+        <label>Date</label>
+        <input type="date" class="form-control" Asp-for="Date" />
+    </div>
+
+
+
+
+    <input type="submit" value="Delete" class="btn btn-primary" />
+    <input type="button" value="Reset" class="btn btn-secondary" />
+</form>
+@if (ViewBag.status == "Success")
+{
+    <div class="alert alert-success">@ViewBag.message</div>
+}
+else if (ViewBag.status == "Error")
+{
+    <div class="alert alert-danger">@ViewBag.message</div>
+}
+
+
+
+
+

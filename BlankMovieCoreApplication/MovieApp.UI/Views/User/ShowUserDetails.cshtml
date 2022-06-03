@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MovieAPP.Entity.UserModel>
+
+@{
+    ViewData["Title"] = "ShowUserDetails";
+}
+
+<h1>ShowUserDetails</h1>
+
+
+    <table class="table table-bordered  table-dark">
+        <thead>
+            <tr>
+                <th>UserId</th>
+                <th>FirstName</th>
+                <th>LastName</th>
+                <th>Email</th>
+                <th>Mobile</th>
+                <th>Password</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model)
+            {
+            <tr>
+                <td>@item.UserId</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.Email</td>
+                <td>@item.Mobile</td>
+                <td>@item.Password</td>
+                <td><a asp-action="EditUser" asp-controller="User" asp-route-UserId="@item.UserId">Edit</a></td>
+                <td><a asp-action="Delete" asp-controller="User" asp-route-UserId="@item.UserId">Delete</a></td>
+            </tr>
+            }
+        </tbody>
+    </table>

@@ -1,0 +1,10 @@
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\bin\Debug\netcoreapp3.1\MovieAPP.Entity.deps.json
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\bin\Debug\netcoreapp3.1\MovieAPP.Entity.dll
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\bin\Debug\netcoreapp3.1\MovieAPP.Entity.pdb
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\obj\Debug\netcoreapp3.1\MovieAPP.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\obj\Debug\netcoreapp3.1\MovieAPP.Entity.AssemblyInfoInputs.cache
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\obj\Debug\netcoreapp3.1\MovieAPP.Entity.AssemblyInfo.cs
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\obj\Debug\netcoreapp3.1\MovieAPP.Entity.csproj.CoreCompileInputs.cache
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\obj\Debug\netcoreapp3.1\MovieAPP.Entity.dll
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\obj\Debug\netcoreapp3.1\MovieAPP.Entity.pdb
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Entity\obj\Debug\netcoreapp3.1\MovieAPP.Entity.csproj.AssemblyReference.cache

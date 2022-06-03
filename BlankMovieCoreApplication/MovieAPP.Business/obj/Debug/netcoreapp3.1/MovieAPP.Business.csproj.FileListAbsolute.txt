@@ -1,0 +1,15 @@
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\bin\Debug\netcoreapp3.1\MovieAPP.Business.deps.json
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\bin\Debug\netcoreapp3.1\MovieAPP.Business.dll
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\bin\Debug\netcoreapp3.1\MovieAPP.Business.pdb
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.csproj.AssemblyReference.cache
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.AssemblyInfoInputs.cache
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.AssemblyInfo.cs
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.csproj.CoreCompileInputs.cache
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.dll
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.pdb
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\bin\Debug\netcoreapp3.1\MovieAPP.Data.dll
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\bin\Debug\netcoreapp3.1\MovieAPP.Entity.dll
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\bin\Debug\netcoreapp3.1\MovieAPP.Data.pdb
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\bin\Debug\netcoreapp3.1\MovieAPP.Entity.pdb
+D:\ms.netdata\ikstraining\day1\BlankMovieCoreApplication\MovieAPP.Business\obj\Debug\netcoreapp3.1\MovieAPP.Business.csproj.CopyComplete
